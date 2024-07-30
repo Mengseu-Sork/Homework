@@ -1,0 +1,19 @@
+#color{
+    background-color: mediumseagreen;
+    color: orange;
+}
+h1{
+    color: orange;
+    padding: 20px;
+    background-color: black;
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+a{
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    font-size: 25px;
+}
