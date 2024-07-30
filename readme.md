@@ -2,16 +2,24 @@
 
 - Home Page
 
+> index.html
+
 - About Us
+
+> about.html
 
 - Contact Us
 
+> contact.html
+
 - Css
 
-- Image
+> style.css
 
-> Style Css
+- Images
 
-> Image
+> image
 
-> Result
+- Practices
+
+> result
